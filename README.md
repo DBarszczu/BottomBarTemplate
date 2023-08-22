@@ -1,6 +1,1 @@
-# BottomBar
-# BottomBar
-# BottomAppBar
-# BottomBarTemplate
-# BottomBarTemplate
-# BottomBarTemplate
+Ready BottomAppBar to use in your application
